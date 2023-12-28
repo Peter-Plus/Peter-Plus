@@ -1,7 +1,7 @@
 - 👋 Hellllllllllloooooo！My name's Peter Claus, from China, now is a freshman in CCNU
 - 👀 I’m interested in LLM, such as ChatGPT4.0, Gemini and so on.I am interested in computer vision and am currently learning Python and machine learning.
-- 🌱 I’m currently learning machine learning
-- 💞️ I like emm travel，basketball，music
+- 🌱 I am interested in computer vision and am currently learning Python and machine learning.
+- 💞️ I like emm travel，basketball，music, math, AI
 - 📫 well, you could get in touch with me by emm phone number:139******23,or you can also emm by QQ:324*****04
 
 <!---
