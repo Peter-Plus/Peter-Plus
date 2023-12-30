@@ -1,4 +1,4 @@
-- 👋 Hellllllllllloooooo！My name's Peter Claus, from China, now is a freshman in CCNU
+- 👋 Hellllllllllloooooo！My name's Peter Claus（Zhao Yao）, from China, now is a freshman in CCNU
 - 👀 I’m interested in LLM, such as ChatGPT4.0, Gemini and so on.I am interested in computer vision and am currently learning Python and machine learning.
 - 🌱 I am interested in computer vision and am currently learning Python and machine learning.
 - 💞️ I like emm travel，basketball，music, math, AI
