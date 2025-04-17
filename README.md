@@ -1,10 +1,17 @@
-- 👋 Hellllllllllloooooo！My name's Peter Claus（Zhao Yao）, from China, now is a freshman in CCNU
-- 👀 I’m interested in LLM, such as ChatGPT4.0, Gemini and so on.I am interested in computer vision and am currently learning Python and machine learning.
-- 🌱 I am interested in computer vision and am currently learning Python and machine learning.
-- 💞️ I like emm travel，basketball，music, math, AI
-- 📫 well, you could get in touch with me by emm phone number:139******23,or you can also emm by QQ:324**04
+👋 Hi, I’m Peter | A Unity Game Developer in Training
 
-<!---
-Peter-Plus/Peter-Plus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a 2nd-year CS undergraduate from China, passionate about game development and interactive systems.
+
+🎮 I’m currently focusing on:
+- Unity 2D/3D development using C#
+- Spine animation integration & FSM combat systems
+- UI programming and toolchain design (ScriptableObject, Editor Extensions)
+- Exploring AI-assisted workflows for game dev
+
+🛠️ I’m building a project-based portfolio to sharpen my engineering and design thinking.
+You can check out my current project 👉
+
+💡 I'm actively looking for a remote Unity internship / open-source collaboration this summer. If you are working on an indie game, plugin, or tool and looking for contributors — let's connect!
+
+📬 Email: 3243025904@qq.com  
+🌐 Portfolio: 
