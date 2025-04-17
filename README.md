@@ -9,9 +9,9 @@
 - Exploring AI-assisted workflows for game dev
 
 🛠️ I’m building a project-based portfolio to sharpen my engineering and design thinking.
-You can check out my current project 👉
+You can check out my current project 👉(Coming soon!)
 
 💡 I'm actively looking for a remote Unity internship / open-source collaboration this summer. If you are working on an indie game, plugin, or tool and looking for contributors — let's connect!
 
-📬 Email: 3243025904@qq.com  
-🌐 Portfolio: 
+📬 Email: peterclaus622@gmail.com
+🌐 Portfolio: (Coming soon – project demo in progress)
